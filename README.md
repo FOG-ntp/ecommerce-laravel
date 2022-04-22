@@ -3,7 +3,6 @@
 
 ## 💻 Technologies that i use for this project :
 
-<img align="left" width="250px" height="auto" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"/>
 
 <a><img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&labelColor=black&logo=html5&logoColor=E34F26)"></a>
 <a><img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&labelColor=black&logo=css3&logoColor=1572B6)"></a>
