@@ -22,8 +22,6 @@
 
 ## 📊 Feartures : ##
 
-<img align="right" width="400px" height="auto" src="https://vnetmedia.vn/wp-content/uploads/2021/05/cms-and-ecommerce.gif"/>
-
 1. To Customers:
     - Login/Register/Logout.
     - Show products with homepage, categories, brands.
