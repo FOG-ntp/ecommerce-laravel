@@ -8,14 +8,10 @@
 <a><img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&labelColor=black&logo=css3&logoColor=1572B6)"></a>
 <a><img src="https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)"></a>
 <a><img src="https://img.shields.io/badge/-JQuery-0769AD?style=for-the-badge&labelColor=black&logo=jquery&logoColor=0769AD)"></a>
-</br>
-</br>
 <a><img src="https://img.shields.io/badge/-xampp-FB7A24?style=for-the-badge&labelColor=black&logo=xampp&logoColor=FB7A24)"></a>
 <a><img src="https://img.shields.io/badge/-mysql-4479A1?style=for-the-badge&labelColor=black&logo=mysql&logoColor=4479A1)"></a>
 <a><img src="https://img.shields.io/badge/-phpmyadmin-6C78AF?style=for-the-badge&labelColor=black&logo=phpmyadmin&logoColor=6C78AF)"></a>
 <a><img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&labelColor=black&logo=bootstrap&logoColor=7952B3)"></a>
-</br>
-</br>
 <a><img src="https://img.shields.io/badge/-php-777BB4?style=for-the-badge&labelColor=black&logo=php&logoColor=777BB4)"></a>
 <a><img src="https://img.shields.io/badge/-laravel-FF2D20?style=for-the-badge&labelColor=black&logo=laravel&logoColor=FF2D20)"></a>
 <a><img src="https://img.shields.io/badge/-chart.js-FF6384?style=for-the-badge&labelColor=black&logo=chart.js&logoColor=FF6384)"></a>
