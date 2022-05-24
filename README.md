@@ -1,6 +1,6 @@
 ## Furniture E-commerce website in Laravel 
 
-## Technologies:
+### Technologies:
 <a><img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&labelColor=black&logo=html5&logoColor=E34F26)"></a>
 <a><img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&labelColor=black&logo=css3&logoColor=1572B6)"></a>
 <a><img src="https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)"></a>
