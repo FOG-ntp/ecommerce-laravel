@@ -20,45 +20,47 @@
 
 - ##### PWA (progressive web app)
 ====== FRONT-END =======
-    - Login/Register/Logout.
-    - Show products with homepage, categories, brands.
-    - Product details.
-    - Search product with searchbox, tags.
-    - Show Product description.
-    - Show related products.
-    - Product comments.
-    - Add, edit to cart.
-    - Calculate discount code.
-    - Calculate feeship.
-    - Show notification (with Toastr.js).
-    - Breadcrumb navigation.
-    - Product sorting with characters, $price.
-    - Show posts with categories posts.
-    - Display Website's information.
-    - Live Chat with Facebook Messenger Plugin.
-    - Social share buttons for each product, each post.
-    - Show order history.
-    - Print bill for each order.
-    - Pagination.
+
+   - Login/Register/Logout.
+   - Show products with homepage, categories, brands.
+   - Product details.
+   - Search product with searchbox, tags.
+   - Show Product description.
+   - Show related products.
+   - Product comments.
+   - Add, edit to cart.
+   - Calculate discount code.
+   - Calculate feeship.
+   - Show notification (with Toastr.js).
+   - Breadcrumb navigation.
+   - Product sorting with characters, $price.
+   - Show posts with categories posts.
+   - Display Website's information.
+   - Live Chat with Facebook Messenger Plugin.
+   - Social share buttons for each product, each post.
+   - Show order history.
+   - Print bill for each order.
+   - Pagination.
 
 ======= ADMIN =======
-    - Login/Register/Logout.
-    - Show profit with some options (7days ago, month ago, this month, 365days & default: 60days).
-    - Show quantities of products, brands, categories.
-    - Show views of products, posts.
-    - Show quantity of orders.
-    - Show order details and approve order.
-    - Print bill for each order.
-    - CRUD and customize status of products and gallary product's images.
-    - CRUD and customize status of categories product.
-    - CRUD and customize status of posts.
-    - CRUD and customize status of categories post.
-    - CRUD and customize status of brands.
-    - Customize status and Feedback comments.
-    - CRUD and customize status of discount code.
-    - CRUD and customize status of slide carousel.
-    - Instant search, Multi-column ordering use Datatable.JS.
-    - Pagination.
+
+   - Login/Register/Logout.
+   - Show profit with some options (7days ago, month ago, this month, 365days & default: 60days).
+   - Show quantities of products, brands, categories.
+   - Show views of products, posts.
+   - Show quantity of orders.
+   - Show order details and approve order.
+   - Print bill for each order.
+   - CRUD and customize status of products and gallary product's images.
+   - CRUD and customize status of categories product.
+   - CRUD and customize status of posts.
+   - CRUD and customize status of categories post.
+   - CRUD and customize status of brands.
+   - Customize status and Feedback comments.
+   - CRUD and customize status of discount code.
+   - CRUD and customize status of slide carousel.
+   - Instant search, Multi-column ordering use Datatable.JS.
+   - Pagination.
  
  
 ### Set up :
