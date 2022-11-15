@@ -1,7 +1,7 @@
-## Furniture E-commerce website in Laravel 
+## Furniture E-commerce website in Laravel 🛍️
 
 
-### Features :
+### ▷ Features :
 
 - ##### PWA (progressive web app)
 ====== FRONT-END =======
@@ -48,7 +48,7 @@
    - Pagination.
  
  
-### Installation :
+### ▷ Installation :
 
 1. Clone the repo and cd into it
 2. composer install
@@ -64,7 +64,7 @@
 10. php artisan serve or use virtual host
 11. Visit localhost:8000 in your browser
  
-### Screenshots :
+### ▷ Screenshots :
  </br>
  
 ![image](https://user-images.githubusercontent.com/85242568/152860342-139b5359-d193-4769-bb11-aee7efb59a4d.png)
@@ -77,6 +77,6 @@
 ![image](https://user-images.githubusercontent.com/85242568/152860601-800161ad-0a2a-44e8-8dd9-c201d9073ad4.png)
 ![image](https://user-images.githubusercontent.com/85242568/152860637-351d670c-5b4e-40a2-aefe-9dd7cf856885.png)
 
-### Author: F.O.G_ntp(nguyenthanhphong)
+### ▷ Author: F.O.G_ntp(nguyenthanhphong)
 
 
