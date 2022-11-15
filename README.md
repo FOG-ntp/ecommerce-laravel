@@ -63,9 +63,6 @@
 11. Edit .env file :- remove APP_URL
 10. php artisan serve or use virtual host
 11. Visit localhost:8000 in your browser
-
-<p style="text-align:center">Thank You so much for your time !!!</p>
-👉 If you like this project, give it a star ✨ and share 👨🏻‍💻 it to your friends 👈.
  
 ### Screenshots :
  </br>
@@ -80,5 +77,6 @@
 ![image](https://user-images.githubusercontent.com/85242568/152860601-800161ad-0a2a-44e8-8dd9-c201d9073ad4.png)
 ![image](https://user-images.githubusercontent.com/85242568/152860637-351d670c-5b4e-40a2-aefe-9dd7cf856885.png)
 
+### Author: F.O.G_ntp(nguyenthanhphong)
 
 
